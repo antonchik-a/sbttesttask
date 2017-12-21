@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Конвертер валют</string>
+
+    <string name="from_title">Из какой валюты</string>
+    <string name="to_title">В какую валюту</string>
+    <string name="sum_hint">Сумма</string>
+    <string name="error_undefinied">Неизвестная ошибка</string>
+    <string name="error_network">Ошибка загрузки данных</string>
+    <string name="error_curs_save">Ошибка сохранения данных курсов валют</string>
+    <string name="success_update_valute_curs">Курсы валют успешно обновлены</string>
+    <string name="choose_from">Выберите исходную валюту</string>
+    <string name="chose_to">Выберите конечную валюту</string>
+    <string name="input_sum">Введите сумму</string>
+</resources>
